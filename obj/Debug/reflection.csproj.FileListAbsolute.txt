@@ -1,0 +1,12 @@
+C:\Users\is-st\OneDrive\Документы\CSharp\Work6.1\reflection\bin\Debug\reflection.exe.config
+C:\Users\is-st\OneDrive\Документы\CSharp\Work6.1\reflection\bin\Debug\reflection.exe
+C:\Users\is-st\OneDrive\Документы\CSharp\Work6.1\reflection\bin\Debug\reflection.pdb
+C:\Users\is-st\OneDrive\Документы\CSharp\Work6.1\reflection\obj\Debug\reflection.csprojResolveAssemblyReference.cache
+C:\Users\is-st\OneDrive\Документы\CSharp\Work6.1\reflection\obj\Debug\reflection.exe
+C:\Users\is-st\OneDrive\Документы\CSharp\Work6.1\reflection\obj\Debug\reflection.pdb
+F:\GitHub\Work6.1\reflection\bin\Debug\reflection.exe.config
+F:\GitHub\Work6.1\reflection\obj\Debug\reflection.exe
+F:\GitHub\Work6.1\reflection\obj\Debug\reflection.pdb
+F:\GitHub\Work6.1\reflection\bin\Debug\reflection.exe
+F:\GitHub\Work6.1\reflection\bin\Debug\reflection.pdb
+F:\GitHub\Work6.1\reflection\obj\Debug\reflection.csprojResolveAssemblyReference.cache
